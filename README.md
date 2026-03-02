@@ -1,6 +1,6 @@
 2026.3.2 
 第一次用口语对话软件，和非洲、巴西人交流了，下面是查询的这两个国家的相关点：
-<img width="218" height="105" alt="image" src="https://github.com/user-attachments/assets/67b37526-48d6-4017-be5a-408074c49e9b" />
+
 科特迪瓦位于西非，
 西非是非洲西部的一大片区域。最常见的“西非”说法，通常会先想到 西非国家经济共同体（ECOWAS） 这 15 个成员国：贝宁、布基纳法索、佛得角（Cabo Verde）、科特迪瓦、冈比亚、加纳、几内亚、几内亚比绍、利比里亚、马里、尼日尔、尼日利亚、塞内加尔、塞拉利昂、多哥。ECOWAS 的宗旨是推动西非的合作与一体化。
 
@@ -17,4 +17,17 @@ Geographically, West Africa has two broad zones. The northern part is closer to 
 West Africa is also very diverse in language and culture. Because of colonial history, many countries use English, French, or Portuguese as official languages. At the same time, many local African languages are widely spoken in daily life.
 
 Economically, agriculture is very important in many West African countries. Some countries are also known for natural resources such as oil, gold, and cocoa. For example, Nigeria is well known for oil, while Côte d’Ivoire and Ghana are famous for cocoa production.
+
+巴西
+Brazil is the largest country in South America and one of the largest countries in the world. Its official language is Portuguese, and it is the only country in the Americas where Portuguese is the main language. The capital of Brazil is Brasília, while São Paulo and Rio de Janeiro are two of its most famous cities.
+
+Brazil is known for its rich culture, diverse population, and beautiful natural landscapes. It is home to the Amazon Rainforest, which is one of the largest and most important rainforests in the world. Brazil is also famous for football, samba music, and the Rio Carnival.
+
+Brazil has a strong agricultural industry and is an important producer of coffee, soybeans, and other products. It is a country full of energy, cultural diversity, and natural beauty.
+
+巴西是南美洲最大的国家，也是世界上面积最大的国家之一。它的官方语言是葡萄牙语，并且是美洲唯一一个以葡萄牙语为主要语言的国家。巴西的首都是巴西利亚，而圣保罗和里约热内卢是它最著名的两座城市。
+
+巴西以其丰富的文化、多样化的人口和美丽的自然景观而闻名。它拥有亚马逊雨林，这是世界上最大、最重要的雨林之一。巴西还因足球、桑巴音乐和里约狂欢节而非常有名。
+
+巴西有着强大的农业产业，是咖啡、大豆等农产品的重要生产国。它是一个充满活力、文化多元、自然风光优美的国家。
 
