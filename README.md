@@ -1,7 +1,7 @@
-2026.3.2 
+# 2026.3.2 
 第一次用口语对话软件，和非洲、巴西人交流了，下面是查询的这两个国家的相关点：
 
-科特迪瓦位于西非，
+## 科特迪瓦位于西非，
 西非是非洲西部的一大片区域。最常见的“西非”说法，通常会先想到 西非国家经济共同体（ECOWAS） 这 15 个成员国：贝宁、布基纳法索、佛得角（Cabo Verde）、科特迪瓦、冈比亚、加纳、几内亚、几内亚比绍、利比里亚、马里、尼日尔、尼日利亚、塞内加尔、塞拉利昂、多哥。ECOWAS 的宗旨是推动西非的合作与一体化。
 
 如果从地理上看，西非大致可以分成两大带：北边靠近撒哈拉边缘的是萨赫勒—稀树草原带，南边靠大西洋的是几内亚海岸带。前者雨水更少、草原和半干旱地貌更多，后者更湿润，沿海贸易和港口城市更发达。
@@ -18,7 +18,7 @@ West Africa is also very diverse in language and culture. Because of colonial hi
 
 Economically, agriculture is very important in many West African countries. Some countries are also known for natural resources such as oil, gold, and cocoa. For example, Nigeria is well known for oil, while Côte d’Ivoire and Ghana are famous for cocoa production.
 
-巴西
+## 巴西
 Brazil is the largest country in South America and one of the largest countries in the world. Its official language is Portuguese, and it is the only country in the Americas where Portuguese is the main language. The capital of Brazil is Brasília, while São Paulo and Rio de Janeiro are two of its most famous cities.
 
 Brazil is known for its rich culture, diverse population, and beautiful natural landscapes. It is home to the Amazon Rainforest, which is one of the largest and most important rainforests in the world. Brazil is also famous for football, samba music, and the Rio Carnival.
